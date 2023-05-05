@@ -13,6 +13,7 @@ In fact, ladybugs species are visually easy to identify. For example, Coccinella
 On the contrary, Harmonia axyridis ladybugs may differ in elytron colors, and spot shapes, number or colors. Thus, spots can be used as a relevant feature to classify ladybugs.
 In this context, the goal of this lab is to develop a Machine learning approach to automatically detect the specy and count the number of spots on an ladybug image.
 
+<img width="528" alt="Capture d’écran 2023-05-06 à 00 20 31" src="https://user-images.githubusercontent.com/90144938/236578334-e17404d9-a019-4fcc-9940-b680ca9c58fb.png">
 
 ## FR 󠁧󠁢🇫🇷
 ### Automation de la classification du coccinelle et celle du comptage de nombre de point
