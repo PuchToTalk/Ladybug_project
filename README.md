@@ -1,7 +1,7 @@
-Common project - AI & Optimization – Data Analysis
+#Common project - AI & Optimization – Data Analysis
 
 
-ENG 🇺🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿
+##ENG 🇺🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿
 Automatic ladybug classification and spot counting
 
 Harmonia axyridis is a ladybug specy that was massively introduced in Europe in the 80s’ for aphid biological control. 
@@ -14,7 +14,7 @@ On the contrary, Harmonia axyridis ladybugs may differ in elytron colors, and sp
 In this context, the goal of this lab is to develop a Machine learning approach to automatically detect the specy and count the number of spots on an ladybug image.
 
 
-FR 󠁧󠁢🇫🇷
+##FR 󠁧󠁢🇫🇷
 Automation de la classification du coccinelle et celle du comptage de nombre de point
 
 Harmonia axyridis est une espèce de coccinelle qui a été massivement introduite en Europe dans les années 80 pour la lutte biologique contre les pucerons. 
