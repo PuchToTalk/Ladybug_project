@@ -1,5 +1,5 @@
 # Common project - AI & Optimization – Data Analysis
-last update : 04/06/23
+last update : 05/06/23
 
 ## ENG 🇺🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿
 ### Automatic ladybug classification and spot counting
